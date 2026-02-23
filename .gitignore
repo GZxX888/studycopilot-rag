@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+*.conda
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env
+
+# Logs & outputs
+*.log
+outputs/
+tmp/
+
+# Vector DB / persist
+vectordb/
+chroma/
+vectorstore/
+persist_directory/

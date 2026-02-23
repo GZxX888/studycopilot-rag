@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Q1",
+    "question": "What is a decision boundary in a neural network?",
+    "should_answer": true
+  },
+  {
+    "id": "Q2",
+    "question": "What are weights and bias in a neuron used for?",
+    "should_answer": true
+  },
+  {
+    "id": "Q3",
+    "question": "What is the AND gate example used to illustrate in Lecture 02?",
+    "should_answer": true
+  },
+  {
+    "id": "Q4",
+    "question": "What does changing the bias do to a linear decision boundary?",
+    "should_answer": true
+  },
+  {
+    "id": "Q5",
+    "question": "What is the role of an activation function in a neural network?",
+    "should_answer": true
+  },
+  {
+    "id": "Q6",
+    "question": "What is the sigmoid activation function?",
+    "should_answer": true
+  },
+  {
+    "id": "Q7",
+    "question": "What does horizontal scaling mean for a sigmoid function?",
+    "should_answer": true
+  },
+  {
+    "id": "Q8",
+    "question": "What does it mean when a neural network has sufficient expressive power?",
+    "should_answer": true
+  },
+  {
+    "id": "Q9",
+    "question": "What is the goal of training a neural network?",
+    "should_answer": true
+  },
+  {
+    "id": "Q10",
+    "question": "What is the learning rate used for in gradient-based optimization?",
+    "should_answer": true
+  }
+]
