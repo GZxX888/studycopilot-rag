@@ -48,5 +48,30 @@
     "id": "Q10",
     "question": "What is the learning rate used for in gradient-based optimization?",
     "should_answer": true
+  },
+  {
+  "id": "Q11",
+  "question": "Why is it difficult to visualize a decision boundary in four-dimensional space?",
+  "should_answer": true
+  },
+  {
+  "id": "Q12",
+  "question": "How does changing the learning rate affect gradient-based optimization?",
+  "should_answer": true
+  },
+  {
+  "id": "Q13",
+  "question": "What is the relationship between loss function, gradient, and parameter update in neural network training?",
+  "should_answer": true
+  },
+  {
+  "id": "Q14",
+  "question": "What does the AND gate example demonstrate about linear separability?",
+  "should_answer": true
+  },
+  {
+  "id": "Q15",
+  "question": "What is the architecture of the ResNet-50 model discussed in the lecture slides?",
+  "should_answer": false
   }
 ]

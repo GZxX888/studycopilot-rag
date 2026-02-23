@@ -1,29 +1,20 @@
 # Python
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
 
-# Environments
-.venv/
-venv/
-env/
-.conda/
-*.conda
-
-# IDE
-.vscode/
-.idea/
-
-# Secrets
+# Env / secrets
 .env
-*.env
 
-# Logs & outputs
-*.log
-outputs/
-tmp/
+# Data (PDFs)
+data/
 
-# Vector DB / persist
+# Vector DB
 vectordb/
-chroma/
-vectorstore/
-persist_directory/
+
+# Evaluation outputs
+evaluate/eval_results_*.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
