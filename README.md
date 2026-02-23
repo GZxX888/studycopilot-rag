@@ -1,7 +1,7 @@
 # StudyCopilot-RAG
 A Structured Hybrid Retrieval-Augmented Generation Study Assistant
 
-======= ENGLISH VERSION =======
+# ======= ENGLISH VERSION =======
 
 1. PROJECT OVERVIEW
 -------------------
@@ -228,7 +228,7 @@ Structure > Free generation
 
 
 
-======= 中文版本 =======
+# ======= 中文版本 =======
 
 1. 项目概述
 ------------
