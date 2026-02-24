@@ -1,20 +1,21 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
 
-# Env / secrets
-.env
+# Virtual env
+.venv/
+env/
+ENV/
 
-# Data (PDFs)
-data/
-
-# Vector DB
+# Vector DB (very important)
 vectordb/
 
-# Evaluation outputs
-evaluate/eval_results_*.jsonl
+# Streamlit
+.streamlit/
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Evaluation logs
+evaluate/eval_results_*.jsonl
